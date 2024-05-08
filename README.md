@@ -1,4 +1,4 @@
 # Final Project for DS2002 @ uva
 Varun Pavuloori
 
-DP1 refers to part 1 of the project and DBot refers to Part 2
+The data directory is for part 2. Follow build instructions for part 2.
